@@ -10,7 +10,7 @@ git commit -m "first commit"
 状態の確認
 git status 
 
-githubでリポジトリ新規作成
+githubでリポジトリ新規作成して関連付ける（https以降はサイトで）
 git remote add origin https: ----
 
 git push origin master

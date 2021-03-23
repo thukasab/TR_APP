@@ -11,3 +11,6 @@ pip install flask flask-sqlalchemy
 app.pyを作成
 
 templatesフォルダの作成
+base.htmlの作成
+{% block head %}{% endblock %}
+{% block body %}{% endblock %}
