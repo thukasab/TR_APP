@@ -1,0 +1,13 @@
+仮想環境の作成
+virtualenv en
+
+仮想環境の有効化
+env\Scripts\activate
+env\Scripts\deactivate
+
+flask　flask-sqlalchemy　のインストール
+pip install flask flask-sqlalchemy
+
+app.pyを作成
+
+templatesフォルダの作成
