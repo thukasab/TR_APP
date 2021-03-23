@@ -11,7 +11,9 @@ git commit -m "first commit"
 git status 
 
 githubでリポジトリ新規作成
+git remote add origin https: ----
 
+git push origin master
 
 git の削除
 del .git
